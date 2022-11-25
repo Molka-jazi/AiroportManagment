@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\AirportManagement",
+    "\\AirportManagement\\AM.ApplicationCore",
+    "\\AirportManagement\\AM.Infrastructure",
+    "\\AirportManagement\\AM.UI.Console\\bin"
+  ],
+  "SelectedNode": "\\AirportManagement\\AM.Infrastructure\\AMContext.cs",
+  "PreviewInSolutionExplorer": false
+}
